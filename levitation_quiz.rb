@@ -1,7 +1,7 @@
 
 def levitation_quiz
 # 	#loop do 
-#         puts "What's up, Doc?"
+#         puts "hat is the spell that enacts levitation?"
 #         answer = gets.chomp
 #         break if answer == "STOP"
 #     end
